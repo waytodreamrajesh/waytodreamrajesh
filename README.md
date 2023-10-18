@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Rajesh G
-👀 I’m interested in Problem Solving and Data Analytics
+👀 I’m interested Automation Stuff
 
 <!--
 **waytodreamrajesh/waytodreamrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
